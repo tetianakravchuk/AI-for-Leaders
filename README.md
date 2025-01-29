@@ -68,11 +68,9 @@ Running the Notebook
 git clone <repository_url>
 cd <repository_directory>
 
-
 	2.	Open the Jupyter notebook:
 
 jupyter notebook Week_1_Preprocessing.ipynb
-
 
 	3.	Run each cell sequentially and follow the instructions provided in the notebook.
 
