@@ -89,12 +89,12 @@ Data Analysis Tasks
 
 The notebook guides you through several hands-on exercises:
 	1.	Summarizing Data:
-	•	Use info() and describe() to understand dataset structure and statistics.
+	    •	Use info() and describe() to understand dataset structure and statistics.
 	2.	Handling Missing Values:
-	•	Identify and remove or impute missing data.
+	    •	Identify and remove or impute missing data.
 	3.	Cleaning Dates:
-	•	Ensure date columns are correctly formatted.
+	    •	Ensure date columns are correctly formatted.
 	4.	Removing Duplicates:
-	•	Check for and remove duplicate rows and identifiers.
+	    •	Check for and remove duplicate rows and identifiers.
 	5.	Visual Analysis:
-	•	Graph age distribution and account opening trends.
+	    •	Graph age distribution and account opening trends.
