@@ -1,4 +1,4 @@
-Here’s a comprehensive summary of all the tasks and solutions formatted as a markdown document suitable for VS Code:
+
 
 # Amusement Park Data Analysis
 
